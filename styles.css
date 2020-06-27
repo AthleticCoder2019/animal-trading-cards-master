@@ -1,0 +1,52 @@
+/* add your CSS here */
+html {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 50px;
+}
+
+.container-1 {
+    background-color: black;
+    color: white;
+    border: 1px solid rgb(255, 188, 4);
+    box-shadow: 5px 5px 5px rgba(255, 188, 4, 0.904);
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    border-radius: 15px;
+    width: 330px;
+}
+
+h3 {
+    margin: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img {
+    margin: 15px;
+    width: 300px;
+}
+
+.container-2 {
+    border: 1px solid rgba(255, 188, 4, 0.808);
+    margin: 15px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.p1 {
+    margin: 20px;
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;   
+}
+
+span {
+    font-weight: bold;
+}
+
+.p2 {
+    margin: 20px;
+}
